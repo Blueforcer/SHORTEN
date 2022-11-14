@@ -8,12 +8,14 @@ Citroën
 Chrysler
 Dacia
 Dodge
+De Lorean
 Daihatsu
 Ferrari
 Fiat
 Ford
 Honda
 Hyundai
+Hummer
 Jaguar
 Kia	
 Lamborghini
@@ -42,5 +44,6 @@ Subaru
 Suzuki
 Toyota
 Tesla
+Wartburg
 Volvo
 Volkswagen
