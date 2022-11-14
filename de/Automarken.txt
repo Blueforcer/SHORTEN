@@ -1,0 +1,46 @@
+Alfa Romeo
+Aston Martin
+Audi
+Bentley
+Bugatti
+BMW	
+Citroën
+Chrysler
+Dacia
+Dodge
+Daihatsu
+Ferrari
+Fiat
+Ford
+Honda
+Hyundai
+Jaguar
+Kia	
+Lamborghini
+Lancia
+Land Rover
+Lexus
+Lada
+Lotus
+Maybach
+Maserati
+Mazda
+Mercedes-Benz
+McLaren
+Mitsubishi
+Mini
+Nissan
+Opel
+Peugeot
+Porsche
+Renault
+Rolls-Royce
+Seat
+Škoda
+Smart
+Subaru
+Suzuki
+Toyota
+Tesla
+Volvo
+Volkswagen
