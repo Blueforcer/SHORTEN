@@ -1,0 +1,16 @@
+createGame=Spiel erstellen
+joinGame=Spiel beitreten
+general=Allgemein
+categories=Kategorien
+rounds=Runden
+level=Schwierigkeit
+ok=OK
+cancel=Abbrechen
+connecting=Verbinde...
+invite=Einladen
+waiting=Warte
+waitForPlayer=Warte auf Mitspieler
+lobby=Lobby
+sound=Sound
+colorscheme=Farbschema
+manual=Anleitung
