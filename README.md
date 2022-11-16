@@ -1,1 +1,1 @@
-# WEGLASSEN
+Wortbibiliothek für die SHORTEN App
