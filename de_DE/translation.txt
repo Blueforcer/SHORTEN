@@ -21,3 +21,5 @@ noLettersSent=Du hast diese Buchstaben bereits gesendet!
 noLettersSelected=Noch keine Buchstaben gewählt
 newMessage=Neue Nachricht
 gameEnd=Spiel beendet
+yes=Ja
+no=Nein
