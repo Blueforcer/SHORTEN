@@ -1,0 +1,66 @@
+Tirana
+Andorra la Vella
+Brüssel
+Sarajevo
+Sofia
+Kopenhagen
+Berlin
+Tallinn
+Helsinki
+Paris
+Athen
+Dublin
+Reykjavík
+Rom
+Astana
+Priština
+Zagreb
+Riga
+Vaduz
+Vilnius
+Luxemburg
+Abu Dhabi
+Valletta
+Skopje
+Kischinau
+Monaco
+Podgorica
+Osaka
+Amsterdam
+Rom
+Kuala Lumpur
+Seoul
+Oslo
+Bagdad
+Tokio
+Dubai
+Jerusalem
+New York
+Wien
+Mailand
+Moskau
+Istanbul
+Hongkong
+Singapur
+Warschau
+Taipeh
+Barcelona
+Shanghai
+Bangkok
+Lissabon
+Bukarest
+Moskau
+San Marino
+Stockholm
+Bern
+Belgrad
+Bratislava
+Ljubljana
+Madrid
+Prag
+Ankara
+Kiew
+Kairo
+Budapest
+London
+Minsk
