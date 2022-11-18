@@ -12,6 +12,7 @@ waiting=Warte
 waitForPlayer=Warte auf Mitspieler
 lobby=Lobby
 sound=Sound
+music=Musik
 colorscheme=Farbschema
 manual=Anleitung
 playWithMe=Spiele mit mir SHORTEN!
