@@ -25,3 +25,5 @@ gameEnd=Spiel beendet
 yes=Ja
 no=Nein
 connecting=Verbinde...
+hostConnectionLost=Host hat die Verbindung beendet
+clientConnectionLost=Mitspieler hat die Verbindung beendet
