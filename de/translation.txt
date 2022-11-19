@@ -24,6 +24,7 @@ newMessage=Neue Nachricht
 gameEnd=Spiel beendet
 yes=Ja
 no=Nein
+username=Spielername
 connecting=Verbinde...
 hostConnectionLost=Host hat die Verbindung beendet
 clientConnectionLost=Mitspieler hat die Verbindung beendet
