@@ -28,4 +28,6 @@ username=Spielername
 connecting=Verbinde...
 hostConnectionLost=Host hat die Verbindung beendet
 clientConnectionLost=Mitspieler hat die Verbindung beendet
-openlobby=Offene Lobby
+gamemode=Spielmodus
+team=Team
+party=Party
